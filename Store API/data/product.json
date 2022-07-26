@@ -1,0 +1,50 @@
+[
+   {
+      "name": "accent chair",
+      "price": 25,
+      "company": "macros",
+      "rating": 4
+   },
+   {
+      "name": "albany sectional",
+      "price": 35,
+      "company": "liddy",
+      "rating": 4.5
+   },
+   {
+      "name": "albany table",
+      "price": 20,
+      "company": "ikea",
+      "rating": 4
+   },
+   {
+      "name": "arm chair",
+      "price": 30,
+      "company": "carssa",
+      "rating": 5
+   },
+   {
+      "name": "cool chair",
+      "price": 27,
+      "company": "macros",
+      "rating": 5
+   },
+   {
+      "name": "chair",
+      "price": 31,
+      "company": "ikea",
+      "rating": 4.5
+   },
+   {
+      "name": "table",
+      "price": 31,
+      "company": "macros",
+      "rating": 5
+   },
+   {
+      "name": "laptop",
+      "price": 45,
+      "company": "ikea",
+      "rating": 5
+   }
+]
